@@ -5,7 +5,7 @@
 - [x] Labo 1 (Basis bewekringen)
 - [x] Labo 2 (Loops)
 - [x] Labo 3 (Functies)
-- [ ] Labo 4
+- [x] Labo 4 (Strings)
 - [ ] Labo 5
 - [ ] Labo 6
 
