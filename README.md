@@ -6,7 +6,7 @@
 - [x] Labo 2 (Loops)
 - [x] Labo 3 (Functies)
 - [x] Labo 4 (Strings)
-- [ ] Labo 5
+- [x] Labo 5 (Matrixes en graphs)
 - [ ] Labo 6
 
 ### Beeldverwerking:
